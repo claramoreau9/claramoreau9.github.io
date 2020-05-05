@@ -535,8 +535,8 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background: url(../images/home/slider-bg.png) 0 100% repeat-x;
-  position: relative;
+  background: url(../images/home/slider-bg.png) 0 10% ;
+  position: absolute;
 }
 
 #home-slider .main-slider {
@@ -890,7 +890,7 @@ ul.sub-menu {
 }
 
 .right.team-carousel-control {
-  right: -50px;
+  right: -20px;
   background-image: url(../images/aboutus/right.png);
 }
 
